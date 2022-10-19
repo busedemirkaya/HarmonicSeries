@@ -1,0 +1,2 @@
+# HarmonicSeries
+Calculate Harmonic Series
